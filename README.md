@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Belive in your ✨ _yourself_ ✨ 
+**Belive in ✨ _yourself_ ✨ 
 
 - 🌱 I’m currently learning JS
 - - 📫 How to reach me: elzada.shadybekova.kk@gmail.com
