@@ -3,8 +3,8 @@
 
 **Belive in ✨ _yourself_ ✨ 
 
-- 🌱 I’m currently learning JS
-- - 📫 How to reach me: elzada.shadybekova.kk@gmail.com
+- 🌱 I’m currently learning C#
+- - 📫 How to reach me: elzada.shadybekova@gmail.com
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
